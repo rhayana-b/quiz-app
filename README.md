@@ -1,2 +1,2 @@
 # quiz-app
-Quiz com HTML CSS e JS
+Quiz com HTML, CSS e JS
